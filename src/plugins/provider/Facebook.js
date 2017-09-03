@@ -5,7 +5,7 @@ function Facebook() {
   this.formats = {
     long: this.createLongUrl,
     short: this.createShortUrl,
-    image: this.createImageUrl
+    longImage: this.createImageUrl
   };
   this.mediaTypes = {
     VIDEO: 'video'
