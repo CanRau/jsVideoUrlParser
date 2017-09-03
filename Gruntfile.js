@@ -27,6 +27,7 @@ module.exports = function (grunt) {
     '--canalplus': ['CanalPlus.js'],
     '--youku': ['Youku.js'],
     '--coub': ['Coub.js'],
+    '--facebook': ['Facebook.js'],
     '--template': ['Template.js']
   };
 
